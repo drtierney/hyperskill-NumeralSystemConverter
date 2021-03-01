@@ -2,7 +2,7 @@
 A program to convert between different numeral systems such as binary, decimal, fractional.  
 https://hyperskill.org/projects/41
 
-<img src="https://github.com/drtierney/hyperskill-NumeralSystemConverter/blob/master/NumeralSystemConverter.gif" width="800" height="500" />
+<img src="https://github.com/drtierney/hyperskill-NumeralSystemConverter/blob/main/NumeralSystemConverter.gif" width="800" height="500" />
 
 ## Syntax
 ```
